@@ -3,7 +3,7 @@
 - **Java 17+** 
 - **JUnit 5**
 - **Maven**  build tool
-- **IDE**  IntelliJ IDEA, Eclipse, or VS Code
+- **IDE**  IntelliJ Idea
 
 ---
 
